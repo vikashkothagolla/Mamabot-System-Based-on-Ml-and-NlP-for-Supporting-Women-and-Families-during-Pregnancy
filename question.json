@@ -1,0 +1,68 @@
+{"intents": [
+        {"tag": "backache",
+         "patterns": ["backache","backache normal during the third","is backache normal during the third trimester of pregnancy"],
+         "responses": ["The extra weight you've gained is putting added pressure on your back, making it feel achy and sore. You might also feel discomfort in your pelvis and hips as your ligaments loosen to prepare for labor"],
+         "context_set": ""
+        },
+        {"tag": "induction",
+         "patterns": ["what is labor induction","induction","labor"],
+         "responses": ["Induction can be the right choice for some women, but it has risks.And it doesn’t always work. If it doesn’t, you may need another induction or a c-section"],
+         "context_set": ""
+        },
+        {"tag": "fish",
+         "patterns": ["eating fish during pregnancy","what's the deal with eating fish during pregnancy","fish"],
+         "responses": ["many fish are also packed with healthy omega-3 fatty acids, which may be important in promoting your baby's brain health"],
+         "context_set": ""
+        },
+        {"tag": "caffeine",
+         "patterns": ["drink caffeine","Can I drink caffeine while pregnant","caffeine"],
+         "responses": ["higher risk of miscarriage"],
+         "context_set": ""
+        },
+        {"tag": "eat",
+         "patterns": ["two during pregnancy","eat for two during pregnancy","Do I really get to eat for two during pregnancy"],
+         "responses": ["The phrase eating for two implies that you get to take in double the calories you normally ingest. It's true that a normal-weight person should gain 25 to 35 pounds during a healthy pregnancy, but you don't need many extra calories to accomplish this"],
+         "context_set": ""
+        },
+        {"tag": "fly",
+         "patterns": ["safe to fly","Is it safe to fly while pregnant","fly while pregnant"],
+         "responses": ["is generally safe for many mothers"],
+         "context_set": ""
+        },
+        {"tag": "prenatal",
+         "patterns": ["prenatal care","prenatal","what is prenatal care"],
+         "responses": ["Prenatal care is the health care you get while you are pregnant"],
+         "context_set": ""
+        },
+        {"tag": "need",
+         "patterns": ["why do I need prenatal care","care","need"],
+         "responses": ["Prenatal care can help keep you and your baby healthy. Babies of mothers who do not get prenatal care are three times more likely to have a low birth weight and five times more likely to die than those born to mothers who do get care."],
+         "context_set": ""
+        },
+        {"tag": "doctor",
+         "patterns": ["how often should i see my doctor during pregnancy","often should i see my doctor","doctor"],
+         "responses": ["Your doctor will give you a schedule of all the doctor's visits you should have while pregnant. Most experts suggest you see your doctor"],
+         "context_set": ""
+        },
+        {"tag": "month",
+         "patterns": ["About once each month for weeks 4 through 28","each month","month"],
+         "responses": ["If you are older than 35 or your pregnancy is high risk, you'll probably see your doctor more often."],
+         "context_set": ""
+        },
+        {"tag": "drugs",
+         "patterns": ["What are the effects of drugs on an unborn child","effects of drugs","drugs"],
+         "responses": ["Studies show that using drugs -- legal or illegal -- during pregnancy has a direct impact on the fetus. If you smoke, drink alcohol, or ingest caffeine, so does the fetus. If you use marijuana or crystal meth, your fetus also feels the impact of these dangerous drugs -- and if you are addicted to cocaine, you're not only putting your own life on the line, but you are risking the health of your unborn baby."],
+         "context_set": ""
+        },
+        {"tag": "castor",
+         "patterns": ["can you use castor oil while pregnant to bring on labor","castor oil","castor oil while pregnant","castor"],
+         "responses": ["Some people recommend a dose of castor oil to kick-start labor, but it tastes terrible and violent diarrhea might spoil the mood. It is not recommended."],
+         "context_set": ""
+        },
+        {"tag": "urination",
+         "patterns": ["is frequent urination normal during the second trimester of pregnancy","frequent urination","frequent","urination"],
+         "responses": ["Your uterus will rise away from the pelvic cavity during the second trimester, giving you a brief break from having to keep going to the bathroom. Don't get too comfortable, though. The urge to go will come back during the last trimester of your pregnancy."],
+         "context_set": ""
+        }
+   ]
+}

@@ -1,0 +1,8 @@
+create database Chatbot;
+use Chatbot;
+
+create table register(username varchar(50) primary key,
+password varchar(50),
+contact varchar(12),
+email varchar(50),
+address varchar(90));
